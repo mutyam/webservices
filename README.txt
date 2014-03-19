@@ -1,7 +1,6 @@
-webservices
-===========
+Java RESTful Web services Tutorial
 
-web services project
+How to create a Java Restful Service/API using the Jersey framework.
 
-This is an experiment project on webservices with java stack technologies.
-Might have frequent updates.
+This is an experiment project on web services with java stack technologies.
+
